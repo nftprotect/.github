@@ -1,4 +1,4 @@
-<img src="https://nftprotect.app/img/trade.png" width="480">
+<img src="https://github.com/NFT-Protect/.github/raw/main/profile/git-thumbnail.png" width="640">
 
 # About NFT Protect 
 
