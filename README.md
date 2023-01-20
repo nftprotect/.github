@@ -1,12 +1,12 @@
-<img src="https://nftprotect.app/img/trade.png" width="480">
+<img src="https://github.com/NFT-Protect/.github/raw/main/profile/git-thumbnail.png" width="1200">
 
-# About NFT Protect 
+# NFT Protect 
 
-NFT Protect is a NFT self-custody protocol which allows complete stealing prevention of digital assets
+Decentralized self-custody protocol for safeguarding digital assets from theft and private key compromise.
 
 ## Links
 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://go.nftprotect.app/medium)
+<!-- [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://go.nftprotect.app/medium) -->
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=medium&logoColor=white)](https://go.nftprotect.app/linkedin)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=medium&logoColor=white)](https://go.nftprotect.app/discord)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=medium&logoColor=white)](https://go.nftprotect.app/facebook)
