@@ -6,8 +6,11 @@ Decentralized self-custody protocol for safeguarding digital assets from theft a
 
 ## Links
 
-<!-- [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://go.nftprotect.app/medium) -->
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://go.nftprotect.app/twitter)
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=medium&logoColor=white)](https://go.nftprotect.app/discord)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=medium&logoColor=white)](https://go.nftprotect.app/facebook)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=medium&logoColor=white)](https://go.nftprotect.app/linkedin)
+<!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://go.nftprotect.app/medium) -->
+[![Twitter](https://img.shields.io/twitter/follow/nftprotectapp?&style=for-the-badge&label=Twitter&logo=twitter&logoColor=white&color=4A99E8)](https://go.nftprotect.app/twitter)
+[![Discord](https://img.shields.io/discord/1055806535567155200?style=for-the-badge&logo=discord&logoColor=white&label=discord&color=7688D4)](https://go.nftprotect.app/discord)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://go.nftprotect.app/facebook)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://go.nftprotect.app/linkedin)
+[![NFTProtectapp.eth](https://img.shields.io/static/v1?label=&message=nftprotectapp.eth&color=blue&logo=ethereum&logoColor=white&style=for-the-badge)](https://etherscan.io/enslookup-search?search=nftprotectapp.eth)
+
+
